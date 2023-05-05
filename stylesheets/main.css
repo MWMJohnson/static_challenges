@@ -1,0 +1,112 @@
+
+header {
+  background-color: brown;
+  color: #fff;
+  overflow: hidden;
+  padding: 25px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.header-left {
+  float: left;
+  font-size: 2em;
+
+}
+.header-right {
+  float: right;
+  margin: 0;
+  line-height: 1em;
+}
+.header-right button {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  font-size: 1em;
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 0 40px;
+  line-height: 2.125;
+  font-weight: bold;
+  display: block;
+}
+
+nav {
+  background-color: rgb(60, 60, 60);
+  align-items: center;
+  overflow: hidden;
+  padding: 16px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-right: 4.13%;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: right;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 6px;
+  text-decoration: underline;
+  font-size: 1em;
+}
+
+nav li a:hover {
+  background-color: #111111;
+}
+
+.column-stack img {
+  max-width: 90%;
+  display: block;
+  margin: 50 auto;
+  margin-bottom: 100px;
+  justify-content: space-around;
+}
+
+.h2 {
+  font-size: 1.875em;
+  padding: 25px;
+  padding-left: 2.5%;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  padding-bottom: 16px;
+  font-family: Verdana, Helvetica, sans-serif;
+  padding-left: 5%;
+}
+
+footer {
+  color: #fff;
+  overflow: hidden;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(60, 60, 60);
+  align-items: center;
+  overflow: hidden;
+  padding: 16px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 1%;
+}
+
+.h2-right {
+  font-size: 1.5em;
+  padding-top: 5%;
+  padding-left: 1.5%;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
